@@ -3,6 +3,8 @@
 - __pollenjp__
   - https://github.com/pollenjp/kaggle__20170620__NOAA_Fisheries_StellerSeaLionPopulationCount
 
+- __onysuke__
+  - https://github.com/Onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts
 
 submodule rules
 1. <username>のディレクトリをルートに作成
