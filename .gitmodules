@@ -1,9 +1,6 @@
 [submodule "pollenjp/kaggle__20170620__NOAA_Fisheries_StellerSeaLionPopulationCount"]
 	path = pollenjp/kaggle__20170620__NOAA_Fisheries_StellerSeaLionPopulationCount
 	url = git@github.com:pollenjp/kaggle__20170620__NOAA_Fisheries_StellerSeaLionPopulationCount.git
-[submodule "kaggle__20170620__NOAA_Fisheries_StellerSeaLionPopulationCount"]
-	path = kaggle__20170620__NOAA_Fisheries_StellerSeaLionPopulationCount
-	url = https://github.com/Onysuke/kaggle__20170620__NOAA_Fisheries_StellerSeaLionPopulationCount.git
 [submodule "onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts"]
 	path = onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts
 	url = https://github.com/Onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts.git
