@@ -13,6 +13,7 @@ submodule rules
 
 ```
 $ mkdir <username>
+$ cd <username>
 $ git submodule add <git-repository>
 $ git commit
 ```
