@@ -4,3 +4,6 @@
 [submodule "onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts"]
 	path = onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts
 	url = https://github.com/Onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts.git
+[submodule "kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts"]
+	path = kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts
+	url = https://github.com/Masato-Akizaki/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts.git
