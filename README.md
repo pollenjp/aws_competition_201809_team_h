@@ -6,6 +6,9 @@
 - __onysuke__
   - https://github.com/Onysuke/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts
 
+- __Masato-Akizaki__
+  - https://github.com/Masato-Akizaki/kaggle__NOAA_Fisheries_StellerSeaLionPopulationCounts
+
 submodule rules
 1. <username>のディレクトリをルートに作成
 1. <username>下に自分のレポジトリをsubmoduleとしてaddする
